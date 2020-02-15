@@ -85,4 +85,4 @@ URL填写：https://192.168.100.100:7001/proj （不区分大小写）
 ![alt gitlab集成图片](./docs/gitlab-integration-1.png)
 
 ## Docker Hub 地址
-https://hub.docker.com/repository/docker/dalinhuang/gitlab-wxwork-bot
+https://hub.docker.com/repository/docker/mingyanggroup/gitlab-wxwork-robot
